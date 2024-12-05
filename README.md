@@ -22,7 +22,7 @@ netflix-clone/
 ## How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git  
+   git clone https://github.com/anuragrauniyar/netflix-clone.git  
 2. Open the project folder.
 3. Launch the index.html file in your browser.
 
