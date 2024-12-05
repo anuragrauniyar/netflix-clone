@@ -2,6 +2,10 @@
 
 A static clone of the Netflix homepage, built using HTML and CSS. This project demonstrates basic frontend skills such as structuring content and styling with CSS.  
 
+## Live Demo
+
+Check out the project live here: [Netflix Clone](https://anuragrauniyar.github.io/netflix-clone/)  
+
 ---
 
 ## Features  
